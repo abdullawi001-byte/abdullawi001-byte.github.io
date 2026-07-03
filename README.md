@@ -1,1 +1,11 @@
-# abdullawi001-byte.github.io
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My First Website</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Welcome to My Website</h1>
+    <p>This page was built using TextMate!</p>
+</body>
+</html>
